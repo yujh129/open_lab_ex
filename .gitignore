@@ -1,0 +1,14 @@
+/llama.cpp/
+
+**/*.gguf
+**/*.gguf.json
+**/*.lastModified
+**/*.bin
+
+.vscode/
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
