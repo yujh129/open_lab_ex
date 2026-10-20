@@ -1,0 +1,6 @@
+load_imatrix: imatrix datasets=['calibration.txt']
+load_imatrix: loaded 275 importance matrix entries from gemma-4-E2B-it.imatrix computed on 5 chunks
+prepare_imatrix: have 275 importance matrix entries
+
+llama_quantize: quantize time = 29423.50 ms
+llama_quantize:    total time = 29423.50 ms
